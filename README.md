@@ -1,12 +1,14 @@
 Web nhom :22
 
-Ho va ten : [Phan Hung Dung]
+Ho va ten :
 
-            [Van Phung Hoang Gia]
+  [Phan Hung Dung]
+
+  [Van Phung Hoang Gia]
             
-            [Mai Minh Huy]
+  [Mai Minh Huy]
             
-            [Tat Anh Huy]
+  [Tat Anh Huy]
             
-            [Nguyen Tan Gia Vuong]
+  [Nguyen Tan Gia Vuong]
  
