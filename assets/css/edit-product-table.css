@@ -45,7 +45,7 @@ select {
 
 .edit-product-container .edit-product-table .exit-edit-product-table:hover
 {
-  background-color: rgb(245, 200, 115);
+  background-color: rgb(238, 148, 205);
 }
 
 .edit-product-container .edit-product-table .title
@@ -123,7 +123,7 @@ select {
   width: 150px;
   height: 40px;
 
-  background: orange;
+  background: rgb(238, 148, 205);
   border-radius: 5px;
 
   text-align: center;
@@ -132,5 +132,5 @@ select {
 
 .edit-product-container .edit-product-table .save-product-btn button:hover
 {
-  background: rgb(255, 123, 0);
+  background: rgb(255, 0, 136);
 }
