@@ -258,7 +258,7 @@ header.sticky .dropdown-list {
 }
 
 #search_box #search_button:hover {
-	background: rgb(255,172,39);
+	background: rgb(238, 148, 205);
 }
 
 header.sticky #search_box {
@@ -293,17 +293,5 @@ header.sticky .shopping-icon:hover {
 	height: 20px;
 	font-size: 20px;
 	margin-bottom:20px;
-	color: red;
-}
-/*
-@media (max-width: 991px)
-{
-	header,header.sticky
-	{
-		padding: 10px 20px;
-	}
-	header .navigation
-	{
-		display: none;
-	}
+	color: rgb(255, 0, 136);
 }
