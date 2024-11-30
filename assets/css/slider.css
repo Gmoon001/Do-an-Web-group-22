@@ -71,9 +71,9 @@ li{
 
 .slider-content-bottom li.color-click{
 	box-shadow: 0px 0px 40px 10px #c7c7c7;
-	border-top: red solid;
+	border-top: rgb(255, 0, 136) solid;
 	font-weight: bold;
-	color: red;
+	color: rgb(255, 0, 136);
 }
 .slider-content-bottom li:hover{
 	background: #e8e8e8;
