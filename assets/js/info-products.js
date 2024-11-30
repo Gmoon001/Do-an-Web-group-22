@@ -28,7 +28,7 @@ function productInfomation(id) {
           <div class="prodcts-info-container" onclick="stopPropagate(event)">
             
             <div class="product-info-item" >
-              <img src="${product[i].img}" class="product-info-img" alt="">
+              <img src="./${product[i].img}" class="product-info-img" alt="">
               <div class="product-info-item-content">
                 <div class="products-container-close" onclick="hideInfoProduct()">
                   <i class="fa-solid fa-xmark"></i>
