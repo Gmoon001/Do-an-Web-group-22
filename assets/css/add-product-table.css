@@ -45,7 +45,7 @@ button {
 
 .add-product-container .add-product-table .exit-add-product-table:hover
 {
-  background-color: rgb(245, 200, 115);
+  background-color: rgb(238, 148, 205);
 }
 
 .add-product-container .add-product-table .title
@@ -115,7 +115,7 @@ button {
   width: 100px;
   height: 30px;
 
-  background: orange;
+  background: rgb(238, 148, 205);
   border-radius: 5px;
   cursor: pointer;
   text-align: center;
@@ -124,5 +124,5 @@ button {
 
 .add-product-container .add-product-table .save-product-btn button:hover
 {
-  background: rgb(255, 123, 0);
+  background: rgb(255, 0, 136);
 }
