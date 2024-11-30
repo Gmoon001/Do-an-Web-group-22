@@ -73,7 +73,7 @@ function showViewOrderFormWithIdUser() {
         div.innerHTML += `
         <div class="view-order-container-bottom-product-item">
           <div class="view-order-container-bottom-product-img">
-            <img src="${orderForm[i].arrProductId[j].img}" alt="">
+            <img src="./${orderForm[i].arrProductId[j].img}" alt="">
           </div>
           <div class="view-order-container-bottom-product-name">
             <div class="view-order-container-bottom-product-name-title">
