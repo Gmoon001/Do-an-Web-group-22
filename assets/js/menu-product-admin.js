@@ -47,7 +47,7 @@ function renderDetailsOrder(idCurrentOrderForm) {
             <div class="orderDetailContainer-content-product">
             
               <div class="view-order-container-bottom-product-img">
-                <img src="${orderFormArr[i].arrProductId[j].img}" alt="">
+                <img src="./${orderFormArr[i].arrProductId[j].img}" alt="">
               </div>
               <div class="view-order-container-bottom-product-name">
                 <div class="view-order-container-bottom-product-name-title">
