@@ -36,7 +36,7 @@
 
 .view-order-container-top {
   display: flex;
-  background: linear-gradient(35deg, rgba(253,29,29,.8) 50%, rgba(252,176,69,.8) 100%);
+  background: linear-gradient(35deg, rgb(255, 0, 136), rgb(238, 148, 205) 100%);
   color: white;
   flex: 1;
   font-size: 22px;
