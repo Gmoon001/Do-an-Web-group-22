@@ -209,7 +209,7 @@ function showProductsInCart() {
       cartContainItem = `
       <div class="cart-container-middle-product">
         <div class="cart-container-middle-product-img">
-         <img src="${arrCart[i].img}" alt="">
+         <img src="./${arrCart[i].img}" alt="">
         </div>
         <div class="cart-container-middle-product-name">
           <div class="cart-container-middle-product-name-title">
