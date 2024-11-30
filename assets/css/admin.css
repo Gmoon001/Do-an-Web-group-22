@@ -6,7 +6,7 @@
     height: 100%;
     width: 360px;
     z-index: 2;
-    background: linear-gradient(45deg, red, orange);
+    background: linear-gradient(45deg, rgb(255, 0, 136), rgb(238, 148, 205));
     opacity: .85;
     padding: 20px 0 20px 20px;
 }
@@ -117,11 +117,11 @@
 }
 .container-header-navigation-icon-menu:hover {
     cursor: pointer;
-    color: rgba(255,144,39,1);
+    color: rgb(238, 148, 205);
     background: white;
 }
 .container-header-navigation-icon-menu:active {
-    background: rgba(255,144,39,1);
+    background: rgb(238, 148, 205);
     color: white;
 }
 
@@ -207,12 +207,12 @@
     padding-bottom: 30px;
     text-align: center;
     font-weight: 600;
-    background: rgba(255,144,39,.8);
+    background: rgb(238, 148, 205);
     cursor: pointer;
 }
 
 .container-nav-header-right div > button:hover {
-    background: rgba(255,144,39,1);
+    background: rgb(238, 148, 205);
 }
 
 #container-content {
@@ -236,7 +236,7 @@
     font-size: 20px;
     font-weight: 600;
     text-align: center;
-    background: rgba(255,144,39,.8);
+    background: rgb(238, 148, 205);
 }
 
 .container-content-header-btn i {
@@ -244,7 +244,7 @@
 }
 
 .container-content-header-btn:hover  {
-    background: rgba(255,144,39,1);
+    background: rgb(238, 148, 205);
     cursor: pointer;
 }
 
@@ -258,7 +258,7 @@
 }
 
 .container-content-products-table th {
-    background: rgb(255,144,39);
+    background: rgb(238, 148, 205);
     font-weight: 600;
     font-size: 18px;
 }
@@ -335,7 +335,7 @@
 
 .add-delete-product-button .add-button:hover {
   cursor: pointer;
-  background-color: rgb(250, 176, 38);
+  background-color: rgb(238, 148, 205);
   box-shadow: 0 0 5px 2px rgb(121, 103, 71);
 }
 
@@ -420,7 +420,7 @@
 .orderDetailContainer-content-date {
     padding: 10px 0 10px 20px ;
     
-    background: rgb(255,144,39);
+    background: rgb(238, 148, 205);
 }
 
 .orderDetailContainer-content-list-products {
