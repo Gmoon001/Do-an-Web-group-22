@@ -43,7 +43,7 @@
 .card-product-item:hover {
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
-  background: linear-gradient(45deg, red, orange);
+  background: linear-gradient(45deg, rgb(255, 0, 136), rgb(238, 148, 205));
   color: rgb(238, 234, 234);
   pointer-events: auto;
 }
@@ -169,7 +169,7 @@
 }
 
 .activePageNumber {
-  background: linear-gradient(45deg, red, orange) !important;
+  background: linear-gradient(45deg,  rgb(255, 0, 136), rgb(238, 148, 205)) !important;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
   color: rgb(238, 234, 234);
   cursor: pointer;
@@ -186,7 +186,7 @@
 }
 
 .pageNumber:hover {
-  background: linear-gradient(45deg, red, orange);
+  background: linear-gradient(45deg,  rgb(255, 0, 136), rgb(238, 148, 205));
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
   color: rgb(238, 234, 234);
   cursor: pointer;
